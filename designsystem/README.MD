@@ -1,6 +1,6 @@
 # MAHMOUD TOUMAR  <img src="assets/MahmoudHeadshot.jpg"  width="7.5%" height="6%">
 
-Ottawa, ON | +1(343)-558-4122 | mtoumar01@gmail.com
+Ottawa, ON | +1(343)-558-4122 | mtoumar01@gmail.com |  <a href="https://www.linkedin.com/in/mahmoud-toumar-79b923236/"><img src="assets/linkedin_icon.png"  width="6%" height="6%"> </a>
 
 
 ### Summary
